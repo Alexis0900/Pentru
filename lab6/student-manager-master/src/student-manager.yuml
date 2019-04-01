@@ -1,0 +1,1 @@
+[Student]-(Login), [Teacher]-(Login), [Administator]-(Add account), [Administrator]-(Add subjects), (Login)>(Add grades), (Login)>(Add student),(Login)>(View students),(Login)>(View grades),(Login)<(Lock account),(Login)>(View details),(Add student)<(Student already exist), (Add account)<(Account already exists) 
